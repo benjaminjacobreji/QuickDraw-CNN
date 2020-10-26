@@ -1,4 +1,4 @@
-# Sketcher 
+# Quickdraw CNN Demo
 
 ## Project Description 
 
