@@ -1,4 +1,4 @@
-# Quickdraw CNN Demo
+# Quickdraw CNN
 
 ## Project Description 
 
